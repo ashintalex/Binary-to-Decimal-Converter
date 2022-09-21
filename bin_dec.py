@@ -67,6 +67,9 @@ for digit in binary_str:
 final_decimal = decimal(decimal_addition)
 
 print(f"The Decimal = {final_decimal}")
+
+if (__name__ == "__main__"):
+    main()
      
 
 
